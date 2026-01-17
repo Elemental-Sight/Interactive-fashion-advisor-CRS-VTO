@@ -78,3 +78,12 @@ venv\Scripts\Activate
 
 # Step 3: Start the application
 pnpm dev
+
+## 👤 Author
+
+Dương Văn Duy and team  
+
+This project was developed as a team-based capstone project  
+Bachelor of Artificial Intelligence – FPT University  
+
+GitHub: https://github.com/Elemental-Sight
