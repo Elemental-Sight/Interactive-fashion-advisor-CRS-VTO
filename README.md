@@ -80,11 +80,11 @@ venv\Scripts\Activate
 pnpm dev
 bash'''
 
-## 👤 Author
+👤 Author
 
-Dương Văn Duy and team  
+Dương Văn Duy and team
 
-This project was developed as a team-based capstone project  
-Bachelor of Artificial Intelligence – FPT University  
+This project was developed as a team-based capstone project
+Bachelor of Artificial Intelligence – FPT University
 
 GitHub: https://github.com/Elemental-Sight
