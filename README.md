@@ -61,21 +61,6 @@ Replace API tokens in the following files:
 - Please contact the author to obtain this file
 
 ---
-
-## ⚙️ Configuration Notes
-Before running the project, please note the following:
-
-### API Tokens
-Replace API tokens in the following files:
-- `retrieval_service/test_vto_space.py` (around line 17)
-- `retrieval_service/vto_service.py` (around line 27)
-
-### FAISS Index
-- Download `products.faiss`
-- Place it inside the `index_retrieval/` directory  
-- Please contact the author to obtain this file
-
----
 ## ▶️ How to Run
 
 ```bash
