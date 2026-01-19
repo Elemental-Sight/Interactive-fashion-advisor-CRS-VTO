@@ -62,9 +62,6 @@ Replace API tokens in the following files:
 
 ---
 
-
----
-
 ## ⚙️ Configuration Notes
 Before running the project, please note the following:
 
