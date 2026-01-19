@@ -63,6 +63,40 @@ Replace API tokens in the following files:
 ---
 
 
+---
+
+## ⚙️ Configuration Notes
+Before running the project, please note the following:
+
+### API Tokens
+Replace API tokens in the following files:
+- `retrieval_service/test_vto_space.py` (around line 17)
+- `retrieval_service/vto_service.py` (around line 27)
+
+### FAISS Index
+- Download `products.faiss`
+- Place it inside the `index_retrieval/` directory  
+- Please contact the author to obtain this file
+
+---
+## ▶️ How to Run
+
+```bash
+# Step 1: Install dependencies
+pip install -r requirements.txt
+
+# Step 2: Activate virtual environment
+
+# PowerShell (Cursor)
+.\.venv\Scripts\Activate.ps1
+
+# VS Code
+venv\Scripts\Activate
+
+# Step 3: Start the application
+pnpm dev
+
+---
 
 ## 👤 Author
 
