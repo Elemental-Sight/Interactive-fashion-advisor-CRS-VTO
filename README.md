@@ -78,7 +78,8 @@ venv\Scripts\Activate
 
 # Step 3: Start the application
 pnpm dev
-bash'''
+
+---
 
 👤 Author
 
