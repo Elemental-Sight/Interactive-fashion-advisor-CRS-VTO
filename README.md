@@ -81,7 +81,7 @@ pnpm dev
 
 ---
 
-👤 Author
+## 👤 Author
 
 Dương Văn Duy and team
 
