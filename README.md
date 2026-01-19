@@ -5,16 +5,14 @@
 
 ## 📌 Overview
 This project implements an **Interactive Fashion Advisor** that combines a  
-**Large Language Model (LLM)-based Conversational Recommendation System (CRS)** with a  
-**diffusion-based Virtual Try-On (VTO)** module.
+**Large Language Model (LLM)-based Conversational Recommendation System (CRS)** with a **diffusion-based Virtual Try-On (VTO)** module.
 
 The system allows users to:
 - Interact with an AI assistant through **multi-turn natural language dialogue**
 - Receive **personalized fashion recommendations**
 - Visually try on recommended garments using **virtual try-on technology**
 
-This project was developed as a **capstone project**, focusing on practical applications of  
-**LLMs, Computer Vision, and Generative AI**.
+This project was developed as a **capstone project**, focusing on practical applications of **LLMs, Computer Vision, and Generative AI**.
 
 ---
 
