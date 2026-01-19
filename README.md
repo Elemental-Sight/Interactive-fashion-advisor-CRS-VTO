@@ -62,24 +62,7 @@ Replace API tokens in the following files:
 
 ---
 
-## ▶️ How to Run
 
-```bash
-# Step 1: Install dependencies
-pip install -r requirements.txt
-
-# Step 2: Activate virtual environment
-
-# PowerShell (Cursor)
-.\.venv\Scripts\Activate.ps1
-
-# VS Code
-venv\Scripts\Activate
-
-# Step 3: Start the application
-pnpm dev
-'''
----
 
 ## 👤 Author
 
